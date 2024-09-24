@@ -150,3 +150,5 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.06394)
 
 
+![visitor count](https://komarev.com/ghpvc/?username=hanmenghan&repo=Awesome-MLLM-Hallucination)
+
